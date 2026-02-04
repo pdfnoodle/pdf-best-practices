@@ -1,0 +1,34 @@
+{
+  "name": "pdf-best-practices",
+  "version": "1.0.0",
+  "description": "Comprehensive guidelines for creating HTML that renders perfectly as PDF documents",
+  "main": "SKILL.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdfnoodle/pdf-best-practices.git"
+  },
+  "keywords": [
+    "pdf",
+    "html-to-pdf",
+    "best-practices",
+    "guidelines",
+    "skill",
+    "agent",
+    "mcp",
+    "pdfnoodle",
+    "puppeteer",
+    "print",
+    "css"
+  ],
+  "author": "PDFNoodle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pdfnoodle/pdf-best-practices/issues"
+  },
+  "homepage": "https://github.com/pdfnoodle/pdf-best-practices#readme",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "resources/**/*.md"
+  ]
+}
