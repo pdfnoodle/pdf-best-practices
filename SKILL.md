@@ -1,3 +1,8 @@
+---
+name: pdf-best-practices
+description: Comprehensive guidelines for creating HTML that renders perfectly as PDF documents. Use when generating HTML for PDF conversion, handling page breaks, formatting tables for PDF, optimizing images for print, controlling content density, setting up colors and backgrounds for print, adding headers/footers/page numbers, or creating specific document types like invoices, reports, certificates, and letters. Also use when the user mentions 'HTML to PDF,' 'PDF generation,' 'print CSS,' 'page breaks,' 'PDF layout,' 'PDF tables,' 'PDF images,' 'content density,' 'print styles,' or 'pdfnoodle.'
+---
+
 # PDF Best Practices Skill
 
 > Comprehensive guidelines for creating HTML that renders perfectly as PDF documents.
